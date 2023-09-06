@@ -132,7 +132,7 @@ const listRepos = (repos) => {
               <i class="far fa-star"></i> ${repo.stargazers_count}</p>
             </div>
           </div>
-        /li>`;
+        </li>`;
     })
   }
 
